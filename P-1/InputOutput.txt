@@ -1,0 +1,32 @@
+CONSOLE: 
+
+---------Menu---------
+1. Check if a number is a Spy Number
+2. Check if a number is a Magic Number
+3. Exit
+Enter your choice: 1
+Enter a number to check if it is a Spy Number: 132
+132 is a Spy Number!
+---------Menu---------
+1. Check if a number is a Spy Number
+2. Check if a number is a Magic Number
+3. Exit
+Enter your choice: 2
+Enter a number to check if it is a Magic Number: 55
+55 is a Magic Number!
+---------Menu---------
+1. Check if a number is a Spy Number
+2. Check if a number is a Magic Number
+3. Exit
+Enter your choice: 3
+Exiting the program...
+
+
+////
+Input:
+
+1
+132
+2
+55
+3
