@@ -1,0 +1,6 @@
+CONTENT:
+Enter a number: 145
+145 is a Krishnamurthy number.
+
+INPUT:
+145
