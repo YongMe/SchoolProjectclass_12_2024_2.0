@@ -1,0 +1,15 @@
+CONSOLE:
+Enter a sentence terminated by '.' or '?'
+Intelligent plus character is education.
+ Intelligent Plus Character Is Education
+Words	Vowels	Consonants
+Intelligent	4	7
+Plus	1	3
+Character	3	6
+Is	1	1
+Education	5	4
+
+
+
+INPUT:
+Intelligent plus character is education.
