@@ -1,6 +1,6 @@
 
 Variable Name	  Data Type	  Description
-scanner	  Scanner	Input scanner object
+sc	  Scanner	Input scanner object
 input	String	User-input string
 result	String	Resulting string after replacement
 i	int	Loop counter
