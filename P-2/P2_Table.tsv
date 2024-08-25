@@ -1,0 +1,17 @@
+
+Variable Name	Data Type	Description
+sc	Scanner	Input scanner object for reading user input
+obj	BaseConversion	Object to call methods decToHex and hexToDec
+choice	int	Stores the user's menu choice
+n	int	Decimal number to be converted to hexadecimal in decToHex
+hexNum	int[]	Array to store remainders during conversion from decimal to hexadecimal
+hex	String	Holds the final hexadecimal representation in decToHex method
+i	int	Counter for hexadecimal array in decToHex method
+j	int	Counter for reverse loop to construct hexadecimal string
+decimal	int	Holds the final decimal equivalent in hexToDec method
+base	int	Power of 16 in hexToDec method (starts at 16^0)
+hexChar	char	Current character of the hexadecimal string in hexToDec method
+decimalNumber	int	User input decimal number to be converted to hexadecimal
+hexResult	String	Holds the hexadecimal result of the decimal number
+hexNumber	String	User input hexadecimal number to be converted to decimal
+decimalResult	int	Holds the decimal result of the hexadecimal number
