@@ -54,7 +54,7 @@ public class BaseConversion {
         int choice;
 
         do {
-            System.out.println("Menu:");
+            System.out.println("------Menu------");
             System.out.println("1. Convert Decimal to Hexadecimal");
             System.out.println("2. Convert Hexadecimal to Decimal");
             System.out.println("3. Exit");
