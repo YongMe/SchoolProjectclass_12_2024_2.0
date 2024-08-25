@@ -1,2 +1,5 @@
-Please change the variables names if possible.
-Atleast change the names of the class
+Folders numbered >> 999 are ready to process
+Inputs and Outputs are workable
+- Change the comments(mandatory)
+- Change the variables names if possible.
+- Change the names of the class
