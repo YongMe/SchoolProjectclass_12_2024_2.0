@@ -1,0 +1,4 @@
+
+Variable Name	Data Type	Description
+i	int	Outer loop counter, representing the current row being printed (starts from 8 and decreases to 1)
+j	int	Inner loop counter, used to print numbers in each row, starting from 8 and decreasing to i in each iteration
