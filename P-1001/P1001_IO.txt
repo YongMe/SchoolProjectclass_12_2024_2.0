@@ -1,0 +1,6 @@
+CONSOLE:
+Enter a number less than 10000: 229
+In words: Two Hundred Twenty Nine
+
+INPUT:
+229
