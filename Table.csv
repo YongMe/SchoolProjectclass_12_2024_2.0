@@ -1,0 +1,8 @@
+
+Variable Name	Data Type	Description
+scanner	Scanner	Input scanner object
+input	String	User-input string
+result	String	Resulting string after replacement
+i	int	Loop counter
+ch	char	Current character being processed
+args	String[]	Command-line arguments (not used)
