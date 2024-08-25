@@ -1,0 +1,6 @@
+
+Variable Name	Data Type	Description
+n	int	Number of rows in the pyramid (set to 9)
+i	int	Outer loop counter, representing the current row being printed
+j	int	Inner loop counter, used to print leading spaces before the characters in each row
+ch	char	Character variable used to print the alphabet letters from 'A' to the ith letter in each row
