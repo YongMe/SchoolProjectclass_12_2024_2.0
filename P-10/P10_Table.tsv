@@ -1,14 +1,11 @@
 
-
-| Variable Name | Data Type      | Description                                  |
-|---------------|----------------|----------------------------------------------|
-| `sc`          | `Scanner`      | Input scanner object                         |
-| `num`         | `int`          | Number input by the user                     |
-| `obj`         | `KrishnamurthyNumber` | Object to call the method `isKrishnamurthy` |
-| `sum`         | `int`          | Sum of factorials of digits                  |
-| `temp`        | `int`          | Temporary variable to store and process `num` |
-| `digit`       | `int`          | Current digit extracted from `temp`          |
-| `fact`        | `int`          | Factorial of the current digit               |
-| `n`           | `int`          | Number for which factorial is being calculated |
-| `args`        | `String[]`     | Command-line arguments (not used)            |
-
+Variable Name	Data Type	Description
+sc	Scanner	Input scanner object
+num	int	Number input by the user
+obj	KrishnamurthyNumber	Object to call the method isKrishnamurthy
+sum	int	Sum of factorials of digits
+temp	int	Temporary variable to store and process num
+digit	int	Current digit extracted from temp
+fact	int	Factorial of the current digit
+n	int	Number for which factorial is being calculated
+args	String[]	Command-line arguments (not used)
