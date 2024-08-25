@@ -1,0 +1,6 @@
+CONSOLE:
+Enter a string: COMPUTER
+Encoded String: EQORWVGT
+
+INPUT:
+COMPUTER
