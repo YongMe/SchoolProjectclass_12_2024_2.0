@@ -1,0 +1,6 @@
+CONSOLE:
+Enter the string: Abz
+Output: bCA
+
+INPUT:
+Abz
