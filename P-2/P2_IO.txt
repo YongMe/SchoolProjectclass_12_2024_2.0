@@ -1,0 +1,30 @@
+CONSOLE:
+
+------Menu------
+1. Convert Decimal to Hexadecimal
+2. Convert Hexadecimal to Decimal
+3. Exit
+Enter your choice: 1
+Enter a decimal number: 1998
+The hexadecimal equivalent of 1998 is 7CE
+------Menu------
+1. Convert Decimal to Hexadecimal
+2. Convert Hexadecimal to Decimal
+3. Exit
+Enter your choice: 2
+Enter a hexadecimal number: ABC
+The decimal equivalent of ABC is 2748
+------Menu------
+1. Convert Decimal to Hexadecimal
+2. Convert Hexadecimal to Decimal
+3. Exit
+Enter your choice: 3
+Exiting the program...
+
+
+INPUT:
+1
+1998
+2
+ABC
+3
