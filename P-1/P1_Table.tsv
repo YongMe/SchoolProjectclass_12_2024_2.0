@@ -1,0 +1,11 @@
+
+Variable Name	Data Type	Description
+sc	Scanner	Input scanner object
+obj	MenuDrivenProgram	Object to call methods isSpyNumber and isMagicNumber
+choice	int	Stores the user's menu choice
+spyNumber	int	Number entered by the user to check if it's a Spy Number
+magicNumber	int	Number entered by the user to check if it's a Magic Number
+num	int	Number being processed in isSpyNumber and isMagicNumber
+digit	int	Current digit extracted from num in isSpyNumber method
+sum	int	Sum of digits in isSpyNumber and isMagicNumber methods
+product	int	Product of digits in isSpyNumber method
