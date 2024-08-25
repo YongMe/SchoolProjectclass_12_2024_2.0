@@ -1,0 +1,8 @@
+CONSOLE:
+Enter the string: COMputer APPlications
+Enter the character: &
+Output: COMputer&APPlications
+
+
+INPUT:
+COMputer APPlications
