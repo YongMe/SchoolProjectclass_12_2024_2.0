@@ -1,0 +1,5 @@
+Variable Name	Data Type	Description
+sc	Scanner	Input scanner object for reading user input
+inputString	String	The string input by the user, in which spaces will be replaced
+replacementChar	char	The character input by the user to replace spaces in the string
+outputString	String	The resulting string after spaces have been replaced by replacementChar
