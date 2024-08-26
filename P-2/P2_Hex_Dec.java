@@ -17,8 +17,7 @@ public class BaseConversion {
             i++;
         }
 
-        // Printing hexadecimal number array
-        // in the reverse order
+        // Storing hexadecimal number array elements in the reverse order
         for (int j = i - 1; j >= 0; j--) {
             if (hexNum[j] > 9)
                 hex += (char)(55 + hexNum[j]);
