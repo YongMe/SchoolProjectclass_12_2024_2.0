@@ -1,0 +1,15 @@
+Variable Name	Data Type	Description
+s	String	The input sentence entered by the user.
+st	String	The capitalized word being formed after processing.
+str	String	The resulting sentence with capitalized words.
+p	String	A temporary string holding individual words from the sentence.
+c	char	A single character from the string s being processed.
+ch	char	A character from the word p being checked if it is a vowel or consonant.
+i	int	Loop counter used for iterating through the sentence string s.
+j	int	Loop counter used for iterating through the characters in word p.
+m	int	Length of the input string s.
+n	int	Length of the word p.
+t	int	Index tracker for the start of each word in the sentence.
+vol	int	Counter for the number of vowels in the word p.
+con	int	Counter for the number of consonants in the word p.
+in	Scanner	Input scanner object for reading the user's sentence.
