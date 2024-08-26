@@ -1,0 +1,8 @@
+Variable Name	Data Type	Description
+sc	Scanner	Input scanner object for reading user input.
+num	int	The number input by the user to be converted into words.
+units	String[]	Array storing words for single-digit numbers (0-9).
+teens	String[]	Array storing words for numbers between 10 and 19.
+tens	String[]	Array storing words for multiples of ten (20, 30, etc.).
+thousands	String[]	Array storing words for thousands (1000, 2000, etc.).
+words	String	String that accumulates the final word representation of the number.
