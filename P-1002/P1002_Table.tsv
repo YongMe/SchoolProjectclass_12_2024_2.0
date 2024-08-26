@@ -1,0 +1,8 @@
+
+Variable Name	Data Type	Description
+sc	Scanner	Input scanner object for reading user input.
+input	String	The user-input string that will be encoded.
+encoded	String	The resulting string after encoding by shifting characters.
+i	int	Loop counter for iterating through the characters of input.
+ch	char	The current character being processed from the input string.
+shiftedChar	char	The character after being shifted by 2 positions in the alphabet.
