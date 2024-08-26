@@ -1,0 +1,7 @@
+
+Variable Name	Data Type	Description
+sc	Scanner	Input scanner object for reading user input.
+input	String	The user-input string that will be processed for letter replacement.
+result	String	The resulting string after replacing each letter according to the rules.
+i	int	Loop counter for iterating through each character of the input string.
+ch	char	The current character being processed from the input string.
