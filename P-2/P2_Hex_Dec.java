@@ -4,7 +4,7 @@ public class BaseConversion {
     
         // Function to convert Decimal to Hexadecimal manually
         String decToHex(int n){
-        // Creating an array to store octal number
+        // Creating an array to store hexadecimal number
         int[] hexNum = new int[100];
         String hex="";
         // counter for hexadecimal number array
