@@ -1,7 +1,3 @@
-Here are the algorithms for each of the given Java programs following the format in the image you provided:
-
----
-
 ### 1. **Menu-Driven Program (Spy Number and Magic Number Check)**
 **Steps:**
 
