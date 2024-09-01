@@ -1,21 +1,22 @@
-### 11. **Encoding Program**
-**Steps:**
 
-I. [Initialize Variables]  
-- Initialize `Scanner` object `sc`.
-- Declare variables: `input`, `encoded`, `ch`, `shiftedChar`.
+1. **Initialize variables:**
+    - `input`: the user-input string, converted to uppercase
+    - `encoded`: an empty string to store the encoded result
 
-II. [Accept Input]  
-- Accept a string from the user into `input`.
+2. **Loop through each character in the input string:**
+    - For each character `ch` at index `i` in `input`:
+        - **Check if the character is a letter:**
+            - If `ch` is a letter (i.e., `ch >= 'A' && ch <= 'Z'`):
+                - **Shift the letter 2 positions forward:**
+                    - Calculate the shifted character `shiftedChar` by adding 2 to `ch`
+                    - If `shiftedChar` exceeds 'Z', subtract 26 to wrap around to the beginning of the alphabet
+                - **Add the shifted character to the encoded string:**
+                    - Append `shiftedChar` to `encoded`
+            - Else (if `ch` is not a letter):
+                - **Leave the character unchanged:**
+                    - Append `ch` to `encoded`
 
-III. [Encode String]  
-- Repeat for each character `ch` in `input`:
-  - If `ch` is a letter, shift it by 2 positions.
-  - Append the result to `encoded`.
+3. **Output the encoded string:**
+    - Print the final encoded string `encoded` to the console
 
-IV. [Display Output]  
-- Print the `encoded` string.
-
---- 
-
-These algorithms outline the steps needed to implement each of the Java programs you've provided.
+---
