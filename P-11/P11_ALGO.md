@@ -2,11 +2,11 @@ Here's the text in a copyable format:
 
 ---
 
-1. **Initialize variables:**
+|. **Initialize variables:**
     - `input`: the user-input string
     - `result`: an empty string to store the modified result
 
-2. **Loop through each character in the input string:**
+||. **Loop through each character in the input string:**
     - For each character `ch` at index `i` in `input`:
         - **Check if the character is an uppercase letter:**
             - If `ch` is an uppercase letter (i.e., `ch >= 'A' && ch <= 'Z'`):
@@ -26,7 +26,7 @@ Here's the text in a copyable format:
             - **Leave the character unchanged:**
                 - Append `ch` to `result`
 
-3. **Output the modified string:**
+|||. **Output the modified string:**
     - Print the final modified string `result` to the console
 
 ---
