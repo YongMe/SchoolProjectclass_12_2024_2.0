@@ -1,6 +1,3 @@
-Here's the text in a copyable format:
-
----
 
 1. **Initialize variables:**
     - `input`: the user-input string
