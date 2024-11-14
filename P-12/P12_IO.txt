@@ -1,0 +1,22 @@
+Enter the number of rows: 3
+Enter the number of columns: 3
+Enter the elements of the matrix:
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+Sum of each row:
+Row no.1 sum: 6
+Row no.2 sum: 15
+Row no.3 sum: 24
+
+Sum of each column:
+Column no.1 sum: 12
+Column no.2 sum: 15
+Column no.3 sum: 18
