@@ -8,7 +8,7 @@ class SeriesSum {
         x = xx;
         n = nn;
     }
-
+    // method to find factorial
     double FindFact(int m) {
         if (m == 0)
             return 1;
@@ -22,7 +22,7 @@ class SeriesSum {
         else
             return (x * FindPower(x, y - 1));
     }
-
+    // method to calculate sum
     void calculate() {
         double t;
         for(int i=1;i<=n;i++)
