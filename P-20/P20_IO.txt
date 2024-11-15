@@ -1,0 +1,4 @@
+Enter the values of x and n:
+5
+3
+Sum of the series: 259.375
