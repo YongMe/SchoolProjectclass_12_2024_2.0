@@ -1,4 +1,4 @@
-//A program to dispay the sorted integers using selection sort
+//A program to display the sorted integers using selection sort
 import java.util.Scanner;
 
 class Sorter
