@@ -54,10 +54,10 @@ class Sort
         {
             mid = (lb + ub) / 2;
             if(item < ar[mid])
-                ub = mid;
-            if(item > ar[mid])
-                lb = mid;
-            if(item == ar[mid])
+                ub = mid - 1;
+            else if(item > ar[mid])
+                lb = mid + 1;
+            else if(item == ar[mid])
                 found = 1;
         }
         if(found == 1){
