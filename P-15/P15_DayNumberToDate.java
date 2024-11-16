@@ -24,14 +24,17 @@ public class DayNumberToDate {
             return;
         }
 
+        // Determine if the year is a leap year
+        boolean isLeapYear = (year % 4 == 0 && year % 100 != 0) || (year % 400 == 0);
+
         // Adjust for leap years
-        if (!(year % 4 == 0 && year % 100 != 0) || (year % 400 == 0) && day == 366) {
+        if (!isLeapYear && day == 366) {
             System.out.println("Day 366 is only valid for leap years.");
             return;
         }
 
         // Month days array
-        int[] monthDays = {31, ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0) ? 28 : 29), 31, 30, 31, 30, 
+        int[] monthDays = {31, isLeapYear ? 29 : 28, 31, 30, 31, 30, 
                            31, 31, 30, 31, 30, 31};
         String[] monthNames = {"January", "February", "March", "April", "May", "June",
                                "July", "August", "September", "October", "November", "December"};
@@ -44,6 +47,7 @@ public class DayNumberToDate {
         }
 
         // Output the result
-        System.out.printf("The corresponding date is: "+ day+" "+monthNames[month]+" "+year);
+        System.out.printf("The corresponding date is: %d %s %d%n", day, monthNames[month], year);
+
     }
 }
