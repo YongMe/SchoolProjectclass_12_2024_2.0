@@ -1,0 +1,9 @@
+
+Variable Name	Type	Description
+st	String[]	An array of String objects that holds the elements of the stack. The size of the array is fixed at 50.
+size	int	An integer representing the maximum capacity of the stack. This is initialized in the parameterized constructor.
+top	int	An integer that indicates the index of the top element in the stack. It starts at -1, indicating that the stack is empty.
+ctr	int	A counter that keeps track of the number of elements currently in the stack. It is incremented when an element is pushed and decremented when an element is popped.
+n	String	A parameter in the pushname method representing the name (or string) to be pushed onto the stack.
+v	String	A temporary variable in the popname method that holds the value of the element being popped from the stack.
+i	int	A loop variable used in the display method to iterate through the elements of the stack from the top to the bottom.
