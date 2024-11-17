@@ -1,0 +1,9 @@
+
+Variable Name	Type	Description
+str	String	A string that holds the input sentence provided by the user.
+len	int	The length of the string str, used to determine the number of characters in the string.
+wordcount	int	A counter that stores the number of words in the string.
+cons	int	A counter that stores the number of consonants in the string.
+c	char	A character variable used to iterate through each character in the string during the counting process.
+s	String	A temporary string variable in the main method that holds the user input for the sentence.
+ob	TheString	An instance of the TheString class used to call methods for counting and displaying results.
