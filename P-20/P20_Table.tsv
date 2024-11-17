@@ -1,0 +1,10 @@
+Variable Name	Type	Description
+x	int	An integer representing the base value used in the series calculations.
+n	int	An integer representing the number of terms in the series to be calculated.
+sum	double	A double variable that accumulates the sum of the series as it is calculated.
+m	int	A parameter in the FindFact method representing the number for which the factorial is calculated.
+y	int	A parameter in the FindPower method representing the exponent for the power calculation.
+t	double	A temporary variable used to store the value of each term in the series before adding it to sum.
+i	int	Loop variable used in the calculate method to iterate through the number of terms in the series.
+sc	Scanner	An instance of the Scanner class used to read user input from the console.
+ob	SeriesSum	An instance of the SeriesSum class used to call methods for calculating and displaying the series sum.
