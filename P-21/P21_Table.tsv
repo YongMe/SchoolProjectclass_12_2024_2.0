@@ -1,0 +1,8 @@
+
+Variable Name	Type	Description
+start	int	An integer representing the starting index for generating the Fibonacci series.
+end	int	An integer representing the ending index for generating the Fibonacci series.
+n	int	A temporary variable used in the read method to store user input for the end value (not explicitly declared in the class).
+a	int	A parameter in the fibo_series method representing the index of the Fibonacci number to be calculated.
+p	int	A temporary variable in the display method that holds the Fibonacci number calculated for the current index i.
+ob	Fibo	An instance of the Fibo class used to call methods for reading input and displaying the Fibonacci series.
