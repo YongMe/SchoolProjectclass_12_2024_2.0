@@ -1,0 +1,10 @@
+
+Variable Name	Type	Description
+sc	Scanner	A Scanner object used to read user input from the console.
+i	int	Loop variable used to iterate through the rows of the matrix.
+j	int	Loop variable used to iterate through the columns of the matrix.
+rsum	int	Stores the sum of the elements in the current row during row sum calculation.
+csum	int	Stores the sum of the elements in the current column during column sum calculation.
+r	int	The number of rows in the matrix, as specified by the user.
+c	int	The number of columns in the matrix, as specified by the user.
+ar	int[][]	A 2D array (matrix) that holds the integer elements input by the user.
