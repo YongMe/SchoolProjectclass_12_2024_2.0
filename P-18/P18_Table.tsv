@@ -1,0 +1,12 @@
+
+Variable Name	Type	Description
+ar	int[]	An array that holds up to 50 integers to be sorted and searched.
+n	int	The number of elements in the array that the user wants to input (maximum 50).
+i	int	Loop variable used for iterating through the array in various methods.
+item	int	The integer value that the user wants to search for in the sorted array.
+j	int	Loop variable used in the bubble sort method to iterate through the array.
+temp	int	A temporary variable used to swap elements during the bubble sort process.
+lb	int	The lower bound index for the binary search algorithm.
+ub	int	The upper bound index for the binary search algorithm.
+mid	int	The middle index calculated during the binary search process.
+found	int	A flag variable used to indicate whether the search item was found (1 if found, 0 if not).
