@@ -1,0 +1,9 @@
+
+Variable Name	Type	Description
+ar	int[]	An array that holds the integers to be sorted, with a maximum size of 100.
+n	int	The number of elements in the array that the user wants to sort.
+i	int	Loop variable used for iterating through the array in various methods.
+min	int	The index of the minimum value found in the array during the selection sort process.
+j	int	Loop variable used for iterating through the array to find the minimum value.
+temp	int	A temporary variable used to swap elements during the selection sort process.
+m	int	The index of the minimum element returned by the indexofmin method.
