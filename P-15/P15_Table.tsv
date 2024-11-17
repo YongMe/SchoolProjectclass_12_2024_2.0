@@ -1,0 +1,9 @@
+
+Variable Name	Type	Description
+sc	Scanner	A Scanner object used to read user input from the console.
+year	int	The year input by the user, expected to be a 4-digit integer.
+day	int	The day number input by the user, expected to be between 1 and 366.
+isLeapYear	boolean	A flag indicating whether the specified year is a leap year.
+monthDays	int[]	An array containing the number of days in each month, adjusted for leap years.
+monthNames	String[]	An array containing the names of the months, used for output.
+month	int	The index of the current month being calculated, starting from 0 (January).
