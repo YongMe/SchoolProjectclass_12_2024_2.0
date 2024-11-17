@@ -1,0 +1,9 @@
+Variable Name	Type	Description
+sc	Scanner	A Scanner object used to read user input from the console.
+rows	int	The number of rows in the matrix, as specified by the user.
+cols	int	The number of columns in the matrix, as specified by the user.
+matrix	int[][]	A 2D array (matrix) that holds the integer elements input by the user.
+oddCount	int	A counter that stores the frequency of odd numbers in the matrix.
+evenCount	int	A counter that stores the frequency of even numbers in the matrix.
+i	int	Loop variable used to iterate through the rows of the matrix.
+j	int	Loop variable used to iterate through the columns of the matrix.
