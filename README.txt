@@ -6,3 +6,7 @@ Inputs and Outputs are workable
 - Change the names of the class
 The varialbe description tables will be inspected later on
 other programs, IO files, variable description tables and algorithms will be uploaded soon.....
+
+1000 -> 4
+1001 -> 5
+1002 -> 3
