@@ -1,9 +1,8 @@
-| **Variable Name** | **Type**      | **Description**                                                                                                                                 |
-|-------------------|---------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-| `ar`              | `int[]`      | Array to store the integer elements entered by the user.                                                                                       |
-| `n`               | `int`        | Stores the size of the array, input by the user.                                                                                               |
-| `sc`              | `Scanner`    | Used for taking user input from the console.                                                                                                   |
-| `val`             | `int`        | Temporary variable that holds the current element being compared during the insertion sort process.                                            |
-| `p`               | `int`        | Pointer used to traverse the array from the current position backward during the sorting process.                                              |
-| `i`               | `int`        | Loop counter variable used for iterating through the array elements in the `accept`, `sort`, and `display` methods.                            |
-| `ob`              | `Main`       | Object of the `Main` class used to call methods (`accept`, `sort`, and `display`) for array input, sorting, and displaying the sorted array.   |
+Variable Name	Type	Description
+ar	int[]	Array to store the integer elements entered by the user.
+n	int	Stores the size of the array, input by the user.
+sc	Scanner	Used for taking user input from the console.
+val	int	Temporary variable that holds the current element being compared during the insertion sort process.
+p	int	Pointer used to traverse the array from the current position backward during the sorting process.
+i	int	Loop counter variable used for iterating through the array elements in the accept, sort, and display methods.
+ob	Main	Object of the Main class used to call methods (accept, sort, and display) for array input, sorting, and displaying the sorted array.
